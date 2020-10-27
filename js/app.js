@@ -304,7 +304,6 @@ function closeLists(c, input) {
     localStorage.setItem("switch-a", switchA.checked);
     localStorage.setItem("switch-b", switchB.checked);
     localStorage.setItem("timezone", timezone.value);
-    console.log(("timezone", timezone.value))
 }
  
 
